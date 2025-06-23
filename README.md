@@ -61,4 +61,11 @@ This project was completed as part of a Cybersecurity Internship to demonstrate 
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-15-52-32](https://github.com/user-attachments/assets/ed568078-f534-441b-80e4-fd6947d298e6)
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-15-52-37](https://github.com/user-attachments/assets/be3e3509-2a91-494a-a3b9-697e70c78ec4)
 
+### Risk Analysis
+| Port | Service | Risk (if open)                        |
+| ---- | ------- | ------------------------------------- |
+| 22   | SSH     | Brute-force login attacks             |
+| 80   | HTTP    | Web application vulnerabilities       |
+| 445  | SMB     | Exploits like EternalBlue, ransomware |
 
+ ***Although no open ports were found, real-world networks often expose services. Regular scans help identify and mitigate exposure.***
