@@ -23,7 +23,7 @@ This project was completed as part of a Cybersecurity Internship to demonstrate 
 ## 🔎 Scan Methodology
 
 ### Step 1: Local IP & Subnet
-### ```ip a  or Ifconfig```
+#### ```ip a  or Ifconfig```
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-15-53-25](https://github.com/user-attachments/assets/ec6b1e8c-96ff-4542-9aec-8b1389735750)
 
 ### Step 2: Perform Full SYN Scan
@@ -47,17 +47,17 @@ This project was completed as part of a Cybersecurity Internship to demonstrate 
 
  ***Likely causes:***
 
- ***Devices had firewalls blocking incoming connections***
+- ***Devices had firewalls blocking incoming connections***
 
- ***No services were listening on common TCP ports***
+- ***No services were listening on common TCP ports***
 
- ***Host-based security measures prevented scans***
+- ***Host-based security measures prevented scans***
 
-## 🔹 Wireshark - SYN Packet Capture
+### 🔹 Wireshark - SYN Packet Capture
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-14-29-46](https://github.com/user-attachments/assets/a8042e92-23d8-49f2-acf6-4c98347014d4)
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-18-59-47](https://github.com/user-attachments/assets/e05775f4-404c-4002-a40d-07226e68cac5)
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-19-00-24](https://github.com/user-attachments/assets/687a513d-eba0-4a90-85b0-4affda0610ea)
-## 🔹 Nmap HTML Report 
+### 🔹 Nmap HTML Report 
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-15-52-32](https://github.com/user-attachments/assets/ed568078-f534-441b-80e4-fd6947d298e6)
 ![kali-linux-2024 4-vmware-amd64-2025-06-23-15-52-37](https://github.com/user-attachments/assets/be3e3509-2a91-494a-a3b9-697e70c78ec4)
 
